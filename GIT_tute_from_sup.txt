@@ -1,0 +1,29 @@
+Git demo
+
+1) git init [Initialize local Repo]
+2) git add * [All files are tracked by git]
+
+******** After tracking you need to commit them ********
+3)git commit -m "ENTER YOUR MSG."
+
+4)git status [Check status of your current repo]
+
+5) git commit -a -m "ENTER YOUR MSG." [add and commit an already tracked file]
+
+6) git remote [To show or check connectivity between any local and remote repo]
+
+
+************ origin = DAK NAME OF URL ****************
+7) git remote add origin URL [to connect a remote origin with local repo]
+
+8) git push origin master [upload file from local to remote repo]
+
+9) git clone [fetch file from remote repo]
+
+10) git remote -v [it is shows the remote repo link to the user]
+
+
+*********** ROLL BACK ***********************
+11) git revert 7-DIGIT-OF-COMMIT-HASH  [ROLL BACK]
+
+
