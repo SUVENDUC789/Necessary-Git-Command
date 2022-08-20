@@ -26,4 +26,8 @@ Git demo
 *********** ROLL BACK ***********************
 11) git revert 7-DIGIT-OF-COMMIT-HASH  [ROLL BACK]
 
+12) git config --global user.name "Your_Name" [Creating Local User name in your local directory].
+
+13) git config --global user.email "Your_Mail_id" [Creating Local User email in your local directory].
+
 
