@@ -1,5 +1,4 @@
-# git-demo
-It is a git command file 
+#Necessary Git Command
 
 ### 1.Initialize local Repo:
 ```terminal
