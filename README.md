@@ -1,4 +1,4 @@
-#Necessary Git Command
+# Necessary Git Command
 
 ### 1.Initialize local Repo:
 ```terminal
